@@ -19,4 +19,6 @@ git log --pretty=oneline
 
 git checkout
 
+git tag -a
+
 
