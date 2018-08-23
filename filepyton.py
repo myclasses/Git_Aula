@@ -1,1 +1,1 @@
-vdcvcv
+print("Hello word");
