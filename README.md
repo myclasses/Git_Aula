@@ -17,5 +17,6 @@ corrigindo e desfazendo acoes
 
 git log --pretty=oneline
 
+git checkout
 
 
