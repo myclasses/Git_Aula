@@ -2,7 +2,7 @@
 
 $.getJSON("database.json", function(data) {
   var bands = data.bands;
-
+  var saida;
   for (i = 0; i < bands.length; i++) {
     saida += '<div class="row">';
     saida += '<div class="col-lg-4 band-img">';
