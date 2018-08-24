@@ -1,4 +1,4 @@
-$.getJSON("js/database.json", function(data) {
+$.getJSON("database.json", function(data) {
   var bands = data.bands;
 
   for (i = 0; i < bands.length; i++) {
